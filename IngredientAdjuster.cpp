@@ -1,6 +1,7 @@
 /*File Name: IngredientAdjuster.cpp
 Programmer: Chad Gould
-09/20/2025*/
+09/20/2025
+Requirements: Cookie recipe with the following 3 ingredients: Sugar, Butter, and Flour, and the amounts. Write a program that asks the user how many cookies they want to make, then displays the number of cups of each ingredient needed for the specified amount of cookies. */
 
 #include <iostream>
 using namespace std;
